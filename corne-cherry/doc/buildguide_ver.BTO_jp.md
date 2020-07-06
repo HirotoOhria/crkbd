@@ -24,7 +24,7 @@
 |:-|:-|:-|
 | SK6812MINI | 54個 | 上向き実装 42個、下向き実装 12個 |
 
-![01](https://user-images.githubusercontent.com/736191/54487431-789a6c00-48d9-11e9-9390-a8510b19ba34.jpg)
+![01](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/P1470389.jpg)
 
 ## 実装済みPCBについて
 
@@ -42,20 +42,20 @@ Pro Microの下の4ピンソケットにそのまま差し込んで下さい。
 
 動作確認は左手側はMicroUSBでPCとつなぎ、左手側と右手側をTRSケーブルで接続させて行います。ジャック等の不良等もありえるので、片方ずつではなく必ず左右を接続させてから動作確認をしてください。ここまで正しくできていれば、PCBソケットを取り付けるパッドをピンセット等でショートさせるとOLEDモジュールに押されたキーが表示されます。
 
-![15](https://user-images.githubusercontent.com/736191/54487446-7a642f80-48d9-11e9-8bd2-2b413e3e080a.jpg)
+![15](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/DSC_1013.jpg)
 
 ### プレート、スイッチ
 
 先にスイッチをトッププレートにはめこみます。
 後からでもいいですが、スイッチのはめこみは多少力を入れる必要があるので、先にはめておいたほうが楽です。
 
-![19](https://user-images.githubusercontent.com/736191/54487450-7afcc600-48d9-11e9-8160-de5b9c6a405b.jpg)
+![19](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/DSC_1011.jpg)
 
 このとき、スイッチの足がソケットにはまらず曲がることのないよう、注意して取り付けてください。
 
 最後にトッププレート・PCB・ボトムプレートの順になるように8mmのスペーサで、ProMicro保護プレートを9.5mmのスペーサで取り付け、四隅にクッションゴムを取り付ければ完成です。
 
-![20](https://user-images.githubusercontent.com/736191/54487451-7afcc600-48d9-11e9-8c90-2f2919bf9483.jpg)
+![20](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/DSC_1014.jpg)
 
 ### スイッチの取外しについて
 
