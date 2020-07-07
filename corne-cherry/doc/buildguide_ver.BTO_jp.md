@@ -87,11 +87,11 @@ LEDは４つずつはんだづけを行いますが、一度に４つ行わず�
 1 ~ 6 は下記のように丸印で囲った黒い部分を下にしたとき、矢印で示したシルクの目印が上になるようにはんだづけを行います。
 1 ~ 3 と 4 ~ 5 で向きが変わるので注意してください。
 
-![23](https://user-images.githubusercontent.com/736191/54487456-7b955c80-48d9-11e9-8541-cecb8c7dc97b.png)
+![23](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/DSC_1021.jpg)
 
 7 ~ 27 は下記のように、丸印で囲った一番大きなパッドと、矢印で示したシルクの目印が隣り合うようにはんだづけを行います。
 
-![24](https://user-images.githubusercontent.com/736191/54487457-7b955c80-48d9-11e9-882d-59ff506d5f02.png)
+![24](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/DSC_1019.jpg)
 
 すべて正常にはんだづけができれば下記のように光ります。
 もし途中までしか光らない場合は数字の順番でLEDがつながっているので、光らないLEDもしくはその前のLEDのはんだづけミスやLEDの破損を疑ってください。
