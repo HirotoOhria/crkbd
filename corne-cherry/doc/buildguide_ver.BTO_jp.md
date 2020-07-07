@@ -81,8 +81,7 @@ LEDは４つずつはんだづけを行いますが、一度に４つ行わず�
 
 1 ~ 6は裏面側(Undergrow)が光るようにし、7 ~ 27は表側（Backlight）が光るようにはんだづけを行います。下記がLEDを取り付ける位置です。
 
-![21](https://user-images.githubusercontent.com/736191/54487452-7b955c80-48d9-11e9-98f7-87490a584274.png)
-![22](https://user-images.githubusercontent.com/736191/54487455-7b955c80-48d9-11e9-9498-c841747c5dbc.png)
+![21](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/0ca852a1123782e257c925dcacc2732a.jpg)
 
 1 ~ 6 は下記のように丸印で囲った黒い部分を下にしたとき、矢印で示したシルクの目印が上になるようにはんだづけを行います。
 1 ~ 3 と 4 ~ 5 で向きが変わるので注意してください。
@@ -96,9 +95,9 @@ LEDは４つずつはんだづけを行いますが、一度に４つ行わず�
 すべて正常にはんだづけができれば下記のように光ります。
 もし途中までしか光らない場合は数字の順番でLEDがつながっているので、光らないLEDもしくはその前のLEDのはんだづけミスやLEDの破損を疑ってください。
 
-![25](https://user-images.githubusercontent.com/736191/54487458-7c2df300-48d9-11e9-9582-88a60d5b71c0.jpg)
+![25](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/IMG_20200707_112117.jpg)
 
 これで完成です。
 
-![26](https://user-images.githubusercontent.com/736191/54487459-7c2df300-48d9-11e9-8f3c-2c480cef3b03.jpg)
+![26](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/IMG_20200707_111727.jpg)
 
