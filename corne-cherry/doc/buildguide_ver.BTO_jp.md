@@ -121,7 +121,7 @@ Corneキーボードキットには以下の部品が含まれています。
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/DSC_1139.jpg)  
 乱暴に引き抜くと端子の曲がりなどの原因になります。
 
-ちなみに、ICピンセットを使うと安全にキーが外せます。
+ちなみに、ICピンセットやスイッチプラーなどを使うと安全にキーが外せます。
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/image5.jpg)  
 
 ## 3 (オプション)LEDの取り付け【難易度高】
