@@ -122,7 +122,7 @@ Corneキーボードキットには以下の部品が含まれています。
 乱暴に引き抜くと端子の曲がりなどの原因になります。
 
 ちなみに、ICピンセットを使うと安全にキーが外せます。
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/image0.jpg)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/image5.jpg)  
 
 ## 3 (オプション)LEDの取り付け【難易度高】
 
@@ -138,7 +138,7 @@ LEDはメイン基板上で以下のように1~27まで順番に回路がつな�
 途中のLEDの実装に問題があると、その後のLEDが全て光らなくなる場合などがあるため、
 順番通り実装しながら点灯チェックを行なっていくことをおすすめします。
 
-![LED番号](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/LED番号.jpg)
+![LED番号](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/07/LEDnum.jpg)
 
 
 
